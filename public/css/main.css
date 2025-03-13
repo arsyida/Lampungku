@@ -2122,6 +2122,65 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
 }
 
+.search-container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.search-input {
+  border-radius: 50px;
+  padding: 10px 20px;
+  border: 2px solid black;
+}
+
+.search-btn {
+  border-radius: 50%;
+  border: 2px solid black;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.single-portfolio {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.single-portfolio .item {
+  position: relative;
+  width: 100%;
+  max-width: 500px; /* Membesarkan ukuran lebih lanjut */
+  height: 440px; /* Menjadikan tinggi tetap agar semua gambar sama ukuran */
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px; /* Membuat setiap ujung lebih rounded secara konsisten */
+}
+
+.single-portfolio .item img {
+  width: 100%;
+  height: 100%; /* Memastikan semua gambar memiliki tinggi yang sama */
+  object-fit: cover; /* Menjaga gambar tetap proporsional dan memenuhi kotak */
+  border-radius: 10px; /* Memastikan setiap sisi rounded secara seragam */
+  transition: transform 0.3s ease-in-out; /* Efek transisi untuk zoom */
+}
+
+.single-portfolio .item:hover {
+  transform: scale(1.1); /* Efek zoom saat hover */
+}
+
+
+.single-portfolio .p-inner {
+  text-align: center;
+  padding: 10px;
+}
+
+
 .primary-btn {
   background-color: #8ab92d;
   line-height: 36px;

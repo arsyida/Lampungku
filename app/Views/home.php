@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-	<html lang="zxx" class="no-js">
+	<html lang="en" class="no-js">
 	<head>
 		<!-- Mobile Specific Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -14,7 +14,7 @@
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
-		<title>Tour India</title>
+		<title>Lampungku</title>
         <link rel="icon" href="./img/j.jpg" type="image/jpg">
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 			<!--CSS============================================= -->
@@ -35,7 +35,9 @@
 			<!-- End Header Area -->	
 				<!-- start banner Area -->
 				<section class="banner-area relative" id="home">	
-					<div class="overlay overlay-bg"></div>
+					<div class="overlay overlay-bg">
+						<!-- <img src="https://www.pinhome.id/info-area/wp-content/uploads/2022/05/IMG_20211218_161203-1024x576.jpg" alt=""> -->
+					</div>
 					<div class="container">
 						<div class="row fullscreen d-flex align-items-center justify-content-center">
 							<div class="banner-content col-lg-10">
@@ -65,21 +67,11 @@
 							</div>
 						</div>
 				    
-				    <div class="filters">
-				      <ul>
-				        <li class="active" data-filter="*">All</li>
-				        <li data-filter=".corporate">North</li>
-				        <li data-filter=".personal">Central</li>
-				        <li data-filter=".agency">North-Eastern</li>
-				        <li data-filter=".portal">South</li>
-				      </ul>
-				    </div>
-				    
 				    <div class="filters-content">
 				      <div class="row grid">
 				        <div class="single-portfolio col-sm-4 all corporate">
 				          <div class="item">
-				            <img src="img/p1.jpg" alt="Work 1">
+				            <img src="https://tse1.mm.bing.net/th?q=Air%20Terjun%20Curup%20Tujuh%3A%20Petualangan%20Menuju%20Air%20Terjun%20Eksotis.%20Temukan%20Keindahannya%20di%20Sini%21&w=1280&h=720&c=5&rs=1&p=0" alt="Work 1">
 				            <div class="p-inner">
 				              <h4><a href="./Pages-inside/GoldenTemple-Info.html">Air Terjun Curup Tujuh</a></h4>
 				              <div class="cat">Lampung Tengah</div>
@@ -88,7 +80,7 @@
 				        </div>
 				        <div class="single-portfolio col-sm-4 all personal">
 				          <div class="item">
-				            <img src="img/p2.jpg" alt="Work 1">
+				            <img src="https://pict.sindonews.net/webp/732/pena/news/2023/01/16/156/997351/intip-keindahan-pulau-sebuku-daratan-tak-berpenghuni-di-lampung-yang-jadi-destinasi-wisata-faz.webp" alt="Work 1">
 				            <div class="p-inner">
 				              <h4>Pulau Sebuku</h4>
 				              <div class="cat">Lampung Selatan</div>
@@ -97,7 +89,7 @@
 				        </div>
 				        <div class="single-portfolio col-sm-4 all agency">
 				          <div class="item">
-				            <img src="img/p9.jpg" alt="Work 1">
+				            <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/bb/6a/8e/ujung-bocur.jpg?w=900&h=-1&s=1" alt="Work 1">
 				            <div class="p-inner">
 				              <h5>Pantai Tanjung Setia</h5>
 				              <div class="cat">Lampung Barat</div>
@@ -106,7 +98,7 @@
 				        </div>
 				        <div class="single-portfolio col-sm-4 all portal">
 				          <div class="item">
-				            <img src="img/p12.jpg" alt="Work 1">
+				            <img src="https://heartline.co.id/wp-content/uploads/2024/09/Melihat-Dari-Dekat-Lumba-Lumba-Di-Teluk-Kiluan-Lampung.jpg" alt="Work 1">
 				            <div class="p-inner">
 				              <h5>Teluk Kiluan</h5>
 				              <div class="cat">Pesawaran</div>
@@ -116,7 +108,7 @@
 
 				        <div class="single-portfolio col-sm-4 all corporate">
 				          <div class="item">
-				            <img src="img/p5.jpg" alt="Work 1">
+				            <img src="https://www.blibli.com/friends-backend/wp-content/uploads/2023/08/B800790-1-Jungle-Tracking-dan-Safari-Susur-Sungai-1024x538.jpg" alt="Work 1">
 				            <div class="p-inner">
 				              <h4>Taman Nasional Way Kambas</h4>
 				              <div class="cat">Lampung Timur</div>
@@ -125,7 +117,7 @@
 				        </div>
 				        <div class="single-portfolio col-sm-4 all personal">
 				          <div class="item">
-				            <img src="img/p6.jpg" alt="Work 1">
+				            <img src="https://asset.kompas.com/crops/ziVzdiLv8XtrizxZB9ngle6nUm8=/0x72:1000x738/1200x800/data/photo/2022/06/08/62a0972858cb1.jpg" alt="Work 1">
 				            <div class="p-inner">
 				              <h4>Danau Ranau</h4>
 				              <div class="cat">Lampung Barat</div>
@@ -134,7 +126,7 @@
 				        </div>
 				        <div class="single-portfolio col-sm-4 all agency">
 				          <div class="item">
-				            <img src="img/p7.jpg" alt="Work 1">
+				            <img src="http://yopiefranz.com/wp-content/uploads/2016/08/Air-Terjun-Putri-Malu-di-kab-Way-Kanan-Yopie-Pangkey.jpg" alt="Work 1">
 				            <div class="p-inner">
 				              <h5>Air Terjun Putri Malu</h5>
 				              <div class="cat">Way Kanan</div>
@@ -143,7 +135,7 @@
 				        </div>
 				        <div class="single-portfolio col-sm-4 all portal">
 				          <div class="item">
-				            <img src="img/p10.jpg" alt="Work 1">
+				            <img src="https://www.batiqa.com/upload/news/z/lampung-pantai-gigi-hiu_3mnwt.jpg" alt="Work 1">
 				            <div class="p-inner">
 				              <h5>Pantai Gigi Hiu</h5>
 				              <div class="cat">Tanggamus</div>
@@ -152,7 +144,7 @@
 				        </div>		
 				        <div class="single-portfolio col-sm-4 all corporate">
 				          <div class="item">
-				            <img src="img/p4.jpg" alt="Work 1">
+				            <img src="https://rakyatbenteng.bacakoran.co/upload/eec4b9e93554503c37e025abad86a20a.jpg" alt="Work 1">
 				            <div class="p-inner">
 				              <h4>Kawah Keramikan Suoh</h4>
 				              <div class="cat">Lampung Barat</div>
@@ -161,25 +153,25 @@
 				        </div>
 				        <div class="single-portfolio col-sm-4 all personal">
 				          <div class="item">
-				            <img src="img/p3.jpg" alt="Work 1">
+				            <img src="https://www.eviindrawanto.com/wp-content/uploads/2021/11/Pantai-Marina-Lampug-seksi.jpg" alt="Work 1">
 				            <div class="p-inner">
-				              <h4>Menara Siger</h4>
+				              <h4>Pantai Marina</h4>
 				              <div class="cat">Lampung Selatan</div>
 				            </div>
 				          </div>
 				        </div>
 				        <div class="single-portfolio col-sm-4 all agency">
 				          <div class="item">
-				            <img src="img/p8.jpg" alt="Work 1">
+				            <img src="https://sender.co.id/uploads/post_photo_1730637113.jpg" alt="Work 1">
 				            <div class="p-inner">
-				              <h5>Pantai Marina</h5>
-				              <div class="cat">Lampung Selatan</div>
+				              <h5>Lampung Marriott Resort & Spa</h5>
+				              <div class="cat">Pesawaran</div>
 				            </div>
 				          </div>
 				        </div>
 				        <div class="single-portfolio col-sm-4 all portal">
 				          <div class="item">
-				            <img src="img/p11.jpg" alt="Work 1">
+				            <img src="https://sender.co.id/uploads/post_photo_1730637113.jpg" alt="Work 1">
 				            <div class="p-inner">
 				              <h5>Danau Biru</h5>
 				              <div class="cat">Lampung Tengah</div>
