@@ -9,10 +9,9 @@
 			</button>                                               
 			<div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
 		    	<ul class="navbar-nav">
-					<li><a href="/search">Search</a></li>
-					<li><a href="#portfolio">Places</a></li>
+					<li><a href="/places">Places</a></li>
 					<li><a href="#service">Services</a></li>
-					<li><a href="./Pages-inside/About.html">About Us</a></li>
+					<li><a href="#footer">About Us</a></li>
 			    </ul>
 			</div>						
 		</div>

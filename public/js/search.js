@@ -5,6 +5,6 @@ document.addEventListener("DOMContentLoaded", function () {
   function searchFunction() {
     let query = document.getElementById("search").value.trim();
     if (query) {
-      window.location.href = "/search?query=" + encodeURIComponent(query);
+      window.location.href = "/places?query=" + encodeURIComponent(query);
     }
   }
