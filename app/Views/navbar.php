@@ -4,7 +4,7 @@
          <div class="container">
               <!-- Logo atau nama brand -->
               <a class="navbar-brand text-white font-weight-bold" href="/">
-                    My Lampung
+                    LampungKu
               </a>
               <!-- Tombol untuk toggle menu pada layar kecil -->
               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

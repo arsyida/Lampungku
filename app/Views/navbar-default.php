@@ -3,7 +3,7 @@
     <div class="container">
          <!-- Logo aplikasi yang mengarah ke halaman utama -->
          <a class="navbar-brand text-white font-weight-bold" href="/">
-              My Lampung
+              LampungKu
          </a>
          <!-- Tombol toggler untuk membuka/menutup menu pada perangkat kecil -->
          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
