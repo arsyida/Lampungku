@@ -8,10 +8,12 @@ LampungKu adalah sebuah website yang menyajikan informasi lengkap tentang pariwi
 
 
 ## Teknologi
-- Frontend: Tailwind
+- Frontend: Bootstrap
 - Backend: Code Igniter
 - Database: MySQL
 
 ## Database
-- Wisata
-- Kuliner
+- Nama tempat wisata
+- Deskripsi
+- Lokasi
+- Maps

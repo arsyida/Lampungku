@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="no-js">
+<html lang="id" class="no-js">
 
 <head>
 	<!-- Mobile Specific Meta -->
@@ -35,6 +35,7 @@
 		<!-- Start Header Area -->
 		<?php include 'navbar.php'; ?>
 		<!-- End Header Area -->
+
 		<!-- start banner Area -->
 		<section class="banner-area relative" id="home">
 			<div class="overlay overlay-bg"></div>
@@ -45,13 +46,7 @@
 						<h1>
 							Incredible Lampung!
 						</h1>
-						<div class="input-group mb-3 w-50 mx-auto">
-							<input type="text" id="search" class="form-control search-box "
-								placeholder="Temukan Wisata Impianmu " aria-label="Search"
-								aria-describedby="search-button">
-							<button class="btn success-btn" type="button" id="search-button"
-								>Search</button>
-						</div>
+						<a href="/places" class="primary-btn text-uppercase">Explore Now</a>
 					</div>
 				</div>
 			</div>

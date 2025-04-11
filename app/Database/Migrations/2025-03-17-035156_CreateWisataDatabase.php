@@ -41,6 +41,11 @@ class CreateWisataDatabase extends Migration
                 'null' => true, // Nilai boleh null
                 'default' => null, // Nilai default adalah null
             ],
+            'maps' => [
+                'type'       => 'TEXT', // Tipe data teks panjang
+                'null'       => true, // Nilai boleh null
+                'default'    => null, // Nilai default adalah null
+            ],
         ]);
 
         // Menambahkan primary key pada kolom 'id'
