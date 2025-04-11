@@ -2431,7 +2431,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .service-area {
-  background: url(../img/service-bg.jpg) center;
+  background: url(/assets/service-bg.jpg) center;
   background-size: cover;
   border-radius: 10px;
 }

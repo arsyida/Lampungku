@@ -16,16 +16,10 @@
 	<meta charset="UTF-8">
 	<!-- Site Title -->
 	<title>Lampungku</title>
-	<link rel="icon" href="./img/j.jpg" type="image/jpg">
 	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 	<!--CSS============================================= -->
-	<link rel="stylesheet" href="css/linearicons.css">
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/bootstrap.css">
-	<link rel="stylesheet" href="css/magnific-popup.css">
-	<link rel="stylesheet" href="css/nice-select.css">
-	<link rel="stylesheet" href="css/animate.min.css">
-	<link rel="stylesheet" href="css/owl.carousel.css">
 	<link rel="stylesheet" href="css/main.css">
 </head>
 
@@ -108,7 +102,7 @@
 				<div class="row">
 					<div class="col-lg-4">
 						<div class="single-service">
-							<img class="img-fluid" src="img/s1.png" alt="">
+							<img class="img-fluid" src="<?= base_url('/assets/s1.png') ?>" alt="">
 							<h4>Ammenties Selection</h4>
 							<p>
 								It's totaly on you what you want and what you want to let it go on Hotel Selection
@@ -118,7 +112,7 @@
 					</div>
 					<div class="col-lg-4">
 						<div class="single-service">
-							<img class="img-fluid" src="img/s2.png" alt="">
+							<img class="img-fluid" src="<?= base_url('/assets/s2.png') ?>" alt="">
 							<h4>Visa Ready</h4>
 							<p>
 								Just 32 Hours - What it takes get your Visa Ready and other documentation necessary for
@@ -128,7 +122,7 @@
 					</div>
 					<div class="col-lg-4">
 						<div class="single-service">
-							<img class="img-fluid" src="img/s3.png" alt="">
+							<img class="img-fluid" src="<?= base_url('/assets/s3.png') ?>" alt="">
 							<h4>Personalized Travel Plans</h4>
 							<p>
 								We have wide Varieties of Hotel &amp; Resorts to accomodate you. 3D4N or 15D16N totally
@@ -155,7 +149,6 @@
 				<div class="row">
 					<div class="col-lg-6">
 						<div class="single-review">
-							<img src="img/c1.png" alt="">
 							<div class="title d-flex flex-row">
 								<a href="#">
 									<h4>Fannie Rowe</h4>
@@ -173,7 +166,6 @@
 							</p>
 						</div>
 						<div class="single-review">
-							<img src="img/c3.png" alt="">
 							<div class="title d-flex flex-row">
 								<a href="#">
 									<h4>Lillie Summers</h4>
@@ -193,7 +185,6 @@
 					</div>
 					<div class="col-lg-6">
 						<div class="single-review">
-							<img src="img/c2.png" alt="">
 							<div class="title d-flex flex-row">
 								<a href="#">
 									<h4>Bob Marley</h4>
@@ -211,7 +202,6 @@
 							</p>
 						</div>
 						<div class="single-review">
-							<img src="img/c4.png" alt="">
 							<div class="title d-flex flex-row">
 								<a href="#">
 									<h4>Jackie Chan</h4>
@@ -250,7 +240,7 @@
 								Copyright &copy;
 								<script>document.write(new Date().getFullYear());</script> All rights reserved | This
 								Website is created with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a
-									href="https://github.com/mrjatinchauhan" target="_blank">Ajeng</a>
+									href="https://github.com/arsyida" target="_blank">Ajeng</a>
 							</p>
 						</div>
 					</div>
@@ -265,7 +255,6 @@
 										onblur="this.placeholder = 'Enter Your Email Here '" required="" type="email">
 									<button class="click-btn btn btn-default"><i class="fa fa-long-arrow-right"
 											aria-hidden="true"></i></button>
-
 									<div class="info"></div>
 								</form>
 							</div>
@@ -295,15 +284,12 @@
 	<script src="js/vendor/bootstrap.min.js"></script>
 	<script src="js/easing.min.js"></script>
 	<script src="js/jquery.ajaxchimp.min.js"></script>
-	<script src="js/jquery.magnific-popup.min.js"></script>
-	<script src="js/owl.carousel.min.js"></script>
 	<script src="js/jquery.sticky.js"></script>
-	<script src="js/jquery.nice-select.min.js"></script>
-	<script src="js/parallax.min.js"></script>
 	<script src="js/mail-script.js"></script>
 	<script src="js/isotope.pkgd.min.js"></script>
 	<script src="js/main.js"></script>
 	<script src="js/search.js"></script>
+	<script src="https://kit.fontawesome.com/f0d8b8088c.js" crossorigin="anonymus"></script>
 </body>
 
 </html>
